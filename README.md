@@ -1,8 +1,8 @@
 # tomadono
 
 A Pomodoro clone
-Toma = tomato
-dono = master (japanese)
+- Toma = tomato
+- dono = master (japanese)
 
 ## Getting Started
 - 3 mode: tomadono (for working), short break and long break
