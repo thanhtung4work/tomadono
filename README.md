@@ -10,9 +10,9 @@ dono = master (japanese)
 
 ## Screenshots
 <p float="left">
-  <img src="./screenshot/Screenshot_1.png" width="100" />
-  <img src="./screenshot/Screenshot_2.png" width="100" /> 
-  <img src="./screenshot/Screenshot_3.png" width="100" />
-  <img src="./screenshot/Screenshot_4.png" width="100" />
-  <img src="./screenshot/Screenshot_5.png" width="100" />
+  <img src="./screenshot/Screenshot_1.png" width="150" />
+  <img src="./screenshot/Screenshot_2.png" width="150" /> 
+  <img src="./screenshot/Screenshot_3.png" width="150" />
+  <img src="./screenshot/Screenshot_4.png" width="150" />
+  <img src="./screenshot/Screenshot_5.png" width="150" />
 </p>
